@@ -1,0 +1,14 @@
+{
+"companyName": "eon704",
+"productName": "Laser Defender",
+"dataUrl": "LaserDefender.data.unityweb",
+"asmCodeUrl": "LaserDefender.asm.code.unityweb",
+"asmMemoryUrl": "LaserDefender.asm.memory.unityweb",
+"asmFrameworkUrl": "LaserDefender.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#293A4B",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
